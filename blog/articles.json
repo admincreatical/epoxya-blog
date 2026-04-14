@@ -1,27 +1,27 @@
 [
   {
-    "slug": "temoignage-sol-epoxy-garage-bruxelles-transformation-reussie",
-    "title": "Témoignage : Ma transformation de garage à Bruxelles avec un sol époxy Chemtec",
-    "excerpt": "Découvrez comment Pierre, habitant de Bruxelles, a transformé son garage vétuste en espace moderne grâce à un sol époxy professionnel posé par Epoxya.",
-    "category": "Inspirations",
-    "date": "2026-04-13",
-    "image": "shoowroom2.webp",
+    "slug": "entretien-sol-epoxy-conseils-durabilite-ixelles",
+    "title": "Entretien d'un sol époxy : 7 conseils pour préserver sa durabilité à Ixelles",
+    "excerpt": "Découvrez nos conseils d'experts pour entretenir efficacement votre sol époxy et prolonger sa durée de vie jusqu'à 20 ans.",
+    "category": "Conseils",
+    "date": "2026-04-14",
+    "image": "apres.webp",
     "readTime": "4 min"
   },
   {
-    "name": "temoignage-sol-epoxy-garage-bruxelles-transformation-reussie.json",
-    "path": "blog/articles/temoignage-sol-epoxy-garage-bruxelles-transformation-reussie.json",
-    "sha": "defe53a4b60045270d4c10c1e6ba8dc70077875c",
-    "size": 3417,
-    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-sol-epoxy-garage-bruxelles-transformation-reussie.json?ref=main",
-    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-sol-epoxy-garage-bruxelles-transformation-reussie.json",
-    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/defe53a4b60045270d4c10c1e6ba8dc70077875c",
-    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/temoignage-sol-epoxy-garage-bruxelles-transformation-reussie.json",
+    "name": "entretien-sol-epoxy-conseils-durabilite-ixelles.json",
+    "path": "blog/articles/entretien-sol-epoxy-conseils-durabilite-ixelles.json",
+    "sha": "632b2546b4a2a7661abad11f1ab051f61aca0b5e",
+    "size": 3558,
+    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/entretien-sol-epoxy-conseils-durabilite-ixelles.json?ref=main",
+    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/entretien-sol-epoxy-conseils-durabilite-ixelles.json",
+    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/632b2546b4a2a7661abad11f1ab051f61aca0b5e",
+    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/entretien-sol-epoxy-conseils-durabilite-ixelles.json",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-sol-epoxy-garage-bruxelles-transformation-reussie.json?ref=main",
-      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/defe53a4b60045270d4c10c1e6ba8dc70077875c",
-      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-sol-epoxy-garage-bruxelles-transformation-reussie.json"
+      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/entretien-sol-epoxy-conseils-durabilite-ixelles.json?ref=main",
+      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/632b2546b4a2a7661abad11f1ab051f61aca0b5e",
+      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/entretien-sol-epoxy-conseils-durabilite-ixelles.json"
     }
   }
 ]
