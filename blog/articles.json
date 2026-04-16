@@ -1,27 +1,27 @@
 [
   {
-    "slug": "renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve",
-    "title": "Témoignage : Comment notre restaurant de Louvain-la-Neuve a transformé sa cuisine avec un sol époxy",
-    "excerpt": "Découvrez comment Marc et Sophie ont révolutionné leur restaurant à Louvain-la-Neuve grâce à un sol époxy professionnel. Un témoignage inspirant sur la transformation complète de leur cuisine.",
+    "slug": "temoignage-renovation-usine-charleroi-sol-epoxy",
+    "title": "Témoignage : Rénovation complète de notre usine à Charleroi avec un sol époxy industriel",
+    "excerpt": "Marc Dubois, directeur d'une usine métallurgique à Charleroi, partage son expérience de rénovation avec un sol époxy industriel Chemtec installé par Epoxya.",
     "category": "Inspirations",
     "date": "2026-04-16",
-    "image": "garage2.webp",
+    "image": "apres.webp",
     "readTime": "4 min"
   },
   {
-    "name": "renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve.json",
-    "path": "blog/articles/renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve.json",
-    "sha": "021170fd67f0c1595325c9c07eb42785d1c3b154",
-    "size": 3521,
-    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve.json?ref=main",
-    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve.json",
-    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/021170fd67f0c1595325c9c07eb42785d1c3b154",
-    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve.json",
+    "name": "temoignage-renovation-usine-charleroi-sol-epoxy.json",
+    "path": "blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json",
+    "sha": "a9f18597bb0b72eaf265a32c63c112e4fbce5a1b",
+    "size": 3526,
+    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json?ref=main",
+    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json",
+    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/a9f18597bb0b72eaf265a32c63c112e4fbce5a1b",
+    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve.json?ref=main",
-      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/021170fd67f0c1595325c9c07eb42785d1c3b154",
-      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/renovation-cuisine-professionnelle-sol-epoxy-louvain-la-neuve.json"
+      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json?ref=main",
+      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/a9f18597bb0b72eaf265a32c63c112e4fbce5a1b",
+      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json"
     }
   }
 ]
