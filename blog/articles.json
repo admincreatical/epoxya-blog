@@ -1,27 +1,27 @@
 [
   {
-    "slug": "temoignage-renovation-usine-charleroi-sol-epoxy",
-    "title": "Témoignage : Rénovation complète de notre usine à Charleroi avec un sol époxy industriel",
-    "excerpt": "Marc Dubois, directeur d'une usine métallurgique à Charleroi, partage son expérience de rénovation avec un sol époxy industriel Chemtec installé par Epoxya.",
+    "slug": "temoignage-renovation-showroom-liege-sol-epoxy",
+    "title": "Témoignage : La renaissance de notre showroom automobile à Liège grâce au sol époxy",
+    "excerpt": "Découvrez comment notre concessionnaire automobile de Liège a transformé son showroom avec un sol époxy design et résistant, créant un environnement moderne qui met parfaitement en valeur nos véhicules.",
     "category": "Inspirations",
-    "date": "2026-04-16",
-    "image": "apres.webp",
+    "date": "2026-04-17",
+    "image": "shoowroom2.webp",
     "readTime": "4 min"
   },
   {
-    "name": "temoignage-renovation-usine-charleroi-sol-epoxy.json",
-    "path": "blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json",
-    "sha": "a9f18597bb0b72eaf265a32c63c112e4fbce5a1b",
-    "size": 3526,
-    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json?ref=main",
-    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json",
-    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/a9f18597bb0b72eaf265a32c63c112e4fbce5a1b",
-    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json",
+    "name": "temoignage-renovation-showroom-liege-sol-epoxy.json",
+    "path": "blog/articles/temoignage-renovation-showroom-liege-sol-epoxy.json",
+    "sha": "112c9d179f49a555b96f434a773544013155641d",
+    "size": 3523,
+    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-renovation-showroom-liege-sol-epoxy.json?ref=main",
+    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-renovation-showroom-liege-sol-epoxy.json",
+    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/112c9d179f49a555b96f434a773544013155641d",
+    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/temoignage-renovation-showroom-liege-sol-epoxy.json",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json?ref=main",
-      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/a9f18597bb0b72eaf265a32c63c112e4fbce5a1b",
-      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-renovation-usine-charleroi-sol-epoxy.json"
+      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/temoignage-renovation-showroom-liege-sol-epoxy.json?ref=main",
+      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/112c9d179f49a555b96f434a773544013155641d",
+      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/temoignage-renovation-showroom-liege-sol-epoxy.json"
     }
   }
 ]
