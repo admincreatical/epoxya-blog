@@ -1,27 +1,27 @@
 [
   {
-    "slug": "chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy",
-    "title": "Chantier exceptionnel : Comment nous avons sauvé une bibliothèque centenaire à Ixelles",
-    "excerpt": "Découvrez comment l'équipe Epoxya a relevé le défi de rénover le sol d'une bibliothèque historique d'Ixelles tout en préservant son patrimoine architectural.",
+    "slug": "anecdote-chantier-sol-epoxy-hopital-mons-urgence",
+    "title": "Anecdote de chantier : Installation d'urgence d'un sol époxy à l'hôpital de Mons",
+    "excerpt": "Découvrez comment Epoxya a relevé le défi d'installer un sol époxy en temps record dans un service hospitalier à Mons, en pleine pandémie.",
     "category": "Inspirations",
-    "date": "2026-04-22",
-    "image": "shoowroom2.webp",
+    "date": "2026-04-23",
+    "image": "equipehorizontale.webp",
     "readTime": "4 min"
   },
   {
-    "name": "chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy.json",
-    "path": "blog/articles/chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy.json",
-    "sha": "492323d4ec0d881eddfc1342b74747d1b73b82be",
-    "size": 3398,
-    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy.json?ref=main",
-    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy.json",
-    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/492323d4ec0d881eddfc1342b74747d1b73b82be",
-    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy.json",
+    "name": "anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
+    "path": "blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
+    "sha": "6e8f649502055711537a5efccffe30ca960a0076",
+    "size": 3142,
+    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json?ref=main",
+    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
+    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/6e8f649502055711537a5efccffe30ca960a0076",
+    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy.json?ref=main",
-      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/492323d4ec0d881eddfc1342b74747d1b73b82be",
-      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/chantier-exceptionnel-bibliotheque-ixelles-sol-epoxy.json"
+      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json?ref=main",
+      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/6e8f649502055711537a5efccffe30ca960a0076",
+      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json"
     }
   }
 ]
