@@ -1,27 +1,27 @@
 [
   {
-    "slug": "anecdote-chantier-sol-epoxy-hopital-mons-urgence",
-    "title": "Anecdote de chantier : Installation d'urgence d'un sol époxy à l'hôpital de Mons",
-    "excerpt": "Découvrez comment Epoxya a relevé le défi d'installer un sol époxy en temps record dans un service hospitalier à Mons, en pleine pandémie.",
-    "category": "Inspirations",
-    "date": "2026-04-23",
-    "image": "equipehorizontale.webp",
+    "slug": "sol-epoxy-namur-avantages-applications-secteurs",
+    "title": "Sol époxy à Namur : 5 secteurs d'activité qui profitent le plus de cette solution",
+    "excerpt": "Découvrez les 5 secteurs d'activité à Namur qui tirent le meilleur parti des sols en résine époxy et leurs avantages spécifiques.",
+    "category": "Conseils",
+    "date": "2026-04-24",
+    "image": "entrepot2.webp",
     "readTime": "4 min"
   },
   {
-    "name": "anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
-    "path": "blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
-    "sha": "6e8f649502055711537a5efccffe30ca960a0076",
-    "size": 3142,
-    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json?ref=main",
-    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
-    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/6e8f649502055711537a5efccffe30ca960a0076",
-    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json",
+    "name": "sol-epoxy-namur-avantages-applications-secteurs.json",
+    "path": "blog/articles/sol-epoxy-namur-avantages-applications-secteurs.json",
+    "sha": "7f886412d4306ef99d9c66056023030ead4181ae",
+    "size": 3405,
+    "url": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/sol-epoxy-namur-avantages-applications-secteurs.json?ref=main",
+    "html_url": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/sol-epoxy-namur-avantages-applications-secteurs.json",
+    "git_url": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/7f886412d4306ef99d9c66056023030ead4181ae",
+    "download_url": "https://raw.githubusercontent.com/admincreatical/epoxya-blog/main/blog/articles/sol-epoxy-namur-avantages-applications-secteurs.json",
     "type": "file",
     "_links": {
-      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json?ref=main",
-      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/6e8f649502055711537a5efccffe30ca960a0076",
-      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/anecdote-chantier-sol-epoxy-hopital-mons-urgence.json"
+      "self": "https://api.github.com/repos/admincreatical/epoxya-blog/contents/blog/articles/sol-epoxy-namur-avantages-applications-secteurs.json?ref=main",
+      "git": "https://api.github.com/repos/admincreatical/epoxya-blog/git/blobs/7f886412d4306ef99d9c66056023030ead4181ae",
+      "html": "https://github.com/admincreatical/epoxya-blog/blob/main/blog/articles/sol-epoxy-namur-avantages-applications-secteurs.json"
     }
   }
 ]
